@@ -48,7 +48,7 @@
 </tr>
 </table>
 
-### 📊 **JUSTIFICACIONES DETALLADAS** *(Expandibles)*
+### 📊 ** DETALLES** *(Expandibles)*
 
 <details>
 <summary><b>🗓️ 5+ AÑOS DE EXPERIENCIA</b> - Ver trayectoria completa</summary>
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary><b>🏢 15+ PROYECTOS ENTERPRISE</b> - Ver lista de proyectos</summary>
+<summary><b>🏢 10+ PROYECTOS ENTERPRISE</b> - Ver lista de proyectos</summary>
 
 **Proyectos de gran escala desarrollados:**
 - ✅ **Microservicios BCP** - Sistema bancario nacional (NTT Data)
@@ -155,13 +155,13 @@
 **Optimización DevOps implementada:**
 
 **ANTES (Proceso manual):**
-- ⏰ **Tiempo**: 2-4 horas por deployment
+- ⏰ **Tiempo**: 20-30 horas por deployment los fines de semana
 - 🔧 **Proceso**: Manual, propenso a errores
 - 📅 **Frecuencia**: 1-2 deployments por semana
 - 😰 **Riesgo**: Alto (downtime frecuente)
 
 **DESPUÉS (CI/CD automatizado):**
-- ⚡ **Tiempo**: 20-30 minutos por deployment
+- ⚡ **Tiempo**: 2-5 minutos por deployment
 - 🤖 **Proceso**: Completamente automatizado
 - 🚀 **Frecuencia**: Múltiples deployments por día
 - ✅ **Riesgo**: Mínimo (rollback automático)
